@@ -1,4 +1,6 @@
-## Acá se pueden encontrar trabajos de programación hechos por mi:
+## Programming - Programación
+
+Acá se pueden encontrar trabajos de programación hechos por mi
 
 Lenguaje/s:
   
