@@ -1,5 +1,7 @@
 ## Programming - Programación
 
+Advertencia - Todo lo creado aquí está hecho con fines educativos.
+
 Acá se pueden encontrar trabajos de programación hechos por mi
 
 Lenguaje/s:
